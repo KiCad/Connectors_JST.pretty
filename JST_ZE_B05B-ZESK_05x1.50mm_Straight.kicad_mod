@@ -1,10 +1,10 @@
-(module Connector_JST_ZE_Vertical_05x1.5mm_B05B-ZESK (layer F.Cu) (tedit 55934E7B)
+(module JST_ZE_B05B-ZESK_05x1.5mm_Straight (layer F.Cu) (tedit 55934E7B)
   (descr "JST ZE series connector, crimp style, 1.5mm pitch")
   (tags "JST ZE crimp connector through hole thru")
   (fp_text reference REF** (at 8.4 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_ZE_Vertical_05x1.5mm_B05B-ZESK (at 0.1 4.4) (layer F.Fab)
+  (fp_text value JST_ZE_B05B-ZESK_05x1.5mm_Straight (at 0.1 4.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5 -4.1) (end -5.3 -4.1) (layer F.SilkS) (width 0.15))
@@ -33,7 +33,7 @@
     (solder_mask_margin 0.2) )
   (pad 5 thru_hole circle (at 3 1) (size 1.2 1.2) (drill 0.75) (layers *.Cu *.Mask F.SilkS)
     (solder_mask_margin 0.2) )
-  (model Connectors_JST.3dshapes/Connector_JST_B05B-ZE.wrl
+  (model Connectors_JST.3dshapes/JST_B05B-ZE.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
