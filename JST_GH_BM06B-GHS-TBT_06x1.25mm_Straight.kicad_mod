@@ -1,11 +1,11 @@
-(module Connector_JST_GH_Vertical_06x1.25mm_BM06B-GHS-TBT (layer F.Cu) (tedit 56304565)
+(module JST_GH_BM06B-GHS-TBT_06x1.25mm_Straight (layer F.Cu) (tedit 56304565)
   (descr http://www.jst-mfg.com/product/pdf/eng/eGH.pdf)
   (tags "JST GH Top Entry Connector")
   (attr smd)
   (fp_text reference REF** (at 0 -9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_GH_Vertical_06x1.25mm_BM06B-GHS-TBT (at 0 -7) (layer F.Fab)
+  (fp_text value JST_GH_BM06B-GHS-TBT_06x1.25mm_Straight (at 0 -7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 6 -6) (end 6 0.3) (layer F.CrtYd) (width 0.05))
@@ -28,7 +28,7 @@
   (pad 4 smd rect (at -0.625 -4.75) (size 0.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -1.875 -4.75) (size 0.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -3.125 -4.75) (size 0.8 2) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_JST.3dshapes/Connector_JST_BM06B-GHS.wrl
+  (model Connectors_JST.3dshapes/JST_BM06B-GHS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
