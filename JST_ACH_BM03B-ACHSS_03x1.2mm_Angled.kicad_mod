@@ -1,11 +1,11 @@
-(module Connector_JST_ACH_Horizontal_03x1.2mm_BM03B-ACHSS (layer F.Cu) (tedit 55B703A6)
+(module JST_ACH_BM03B-ACHSS_03x1.2mm_Angled (layer F.Cu) (tedit 55B703A6)
   (descr "JST ACH Series Connector, 1.2mm Pitch")
   (tags "JST ACH connector crimp top entry")
   (attr smd)
   (fp_text reference REF** (at 0 5.9 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_ACH_Horizontal_03x1.2mm_BM03B-ACHSS (at 0 -2.9) (layer F.Fab)
+  (fp_text value JST_ACH_BM03B-ACHSS_03x1.2mm_Angled (at 0 -2.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.2 -0.9) (end -0.9 -1.4) (layer F.SilkS) (width 0.15))
@@ -30,7 +30,7 @@
     (solder_mask_margin 0.1) )
   (pad 5 smd rect (at 2.3495 3.77444) (size 0.70104 1.2) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1) )
-  (model Connectors_JST.3dshapes/Connector_JST_BM03B-ACH.wrl
+  (model Connectors_JST.3dshapes/JST_BM03B-ACH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
