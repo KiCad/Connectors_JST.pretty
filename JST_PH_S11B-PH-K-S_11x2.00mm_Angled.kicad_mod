@@ -1,9 +1,9 @@
-(module Connector_JST_PH_Horizontal_11x2.00mm_S11B-PH-K (layer F.Cu) (tedit 0)
-  (descr "JST PH series connector, Connector_JST_S11B-PH")
+(module JST_PH_S11B-PH-K_11x2.00mm_Angled (layer F.Cu) (tedit 0)
+  (descr "JST PH series connector, JST_S11B-PH")
   (fp_text reference REF** (at 10 -2.79908) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_PH_Horizontal_11x2.00mm_S11B-PH-K (at 10 7.80034) (layer F.Fab)
+  (fp_text value JST_PH_S11B-PH-K_11x2.00mm_Angled (at 10 7.80034) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.5004 1.99898) (end 19.4996 1.99898) (layer F.SilkS) (width 0.15))
@@ -41,7 +41,7 @@
   (pad 9 thru_hole oval (at 15.99948 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole oval (at 17.99846 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole oval (at 19.99998 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/Connector_JST_S11B-PH.wrl
+  (model Connectors_JST.3dshapes/JST_S11B-PH.wrl
     (at (xyz 0.3937 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

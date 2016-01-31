@@ -1,9 +1,9 @@
-(module Connector_JST_PH_Vertical_08x2.00mm_B08B-PH-K-S (layer F.Cu) (tedit 0)
-  (descr "JST PH series connector, Connector_JST_B08B-PH")
+(module JST_PH_B08B-PH-K-S_08x2.00mm_Straight (layer F.Cu) (tedit 0)
+  (descr "JST PH series connector, JST_B08B-PH")
   (fp_text reference REF** (at 7 -2.99974) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_PH_Vertical_08x2.00mm_B08B-PH-K-S (at 7 4.20116) (layer F.Fab)
+  (fp_text value JST_PH_B08B-PH-K-S_08x2.00mm_Straight (at 7 4.20116) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.99922 2.79908) (end 15.99922 2.79908) (layer F.SilkS) (width 0.15))
@@ -53,7 +53,7 @@
   (pad 2 thru_hole oval (at 1.9962 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 5.9967 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at 14.00024 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/Connector_JST_B08B-PH.wrl
+  (model Connectors_JST.3dshapes/JST_B08B-PH.wrl
     (at (xyz 0.27559 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
