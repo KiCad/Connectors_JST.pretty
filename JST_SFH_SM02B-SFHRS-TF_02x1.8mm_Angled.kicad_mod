@@ -1,11 +1,11 @@
-(module Connector_JST_SFH_Horizontal_02x1.8mm_SM02B-SFHRS-TF (layer F.Cu) (tedit 55B7090E)
+(module JST_SFH_SM02B-SFHRS-TF_02x1.8mm_Angled (layer F.Cu) (tedit 55B7090E)
   (descr "JST SFH series crimp connector, SMT, 1.8mm pitch")
   (tags "JST SFT SMT crimp connector")
   (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_JST_SFH_Horizontal_02x1.8mm_SM02B-SFHRS-TF (at 0 7) (layer F.Fab)
+  (fp_text value JST_SFH_SM02B-SFHRS-TF_02x1.8mm_Angled (at 0 7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.2 -1.4) (end -1.9 -1.9) (layer F.SilkS) (width 0.15))
@@ -20,7 +20,7 @@
   (pad 2 smd rect (at 2.10058 0) (size 1.27 2.032) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -2.19964 4.59994) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 2.19964 4.59994) (size 0.8001 1.89992) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_JST.3dshapes/Connector_JST_SM02B-SFH.wrl
+  (model Connectors_JST.3dshapes/JST_SM02B-SFH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
