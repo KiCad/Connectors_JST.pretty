@@ -25,7 +25,7 @@
   (pad "" smd rect (at 3.1 -1.4) (size 1.5 2.8) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -3.1 -1.4) (size 1.5 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.25 -4.75) (size 0.8 2) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_JST.3dshapes/JST_BM03B-GHS.wrl
+  (model Connectors_JST.3dshapes/JST_GH_BM03B-GHS-TBT_03x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
