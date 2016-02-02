@@ -1,9 +1,9 @@
-(module JST_PH_B09B-PH-K-S_09x2.00mm_Straight (layer F.Cu) (tedit 0)
+(module JST_PH_B09B-PH-K-S-S_09x2.00mm_Straight (layer F.Cu) (tedit 0)
   (descr "JST PH series connector, JST_B09B-PH")
   (fp_text reference REF** (at 8 -2.99974) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_PH_B09B-PH-K-S_09x2.00mm_Straight (at 8 4.20116) (layer F.Fab)
+  (fp_text value JST_PH_B09B-PH-K-S-S_09x2.00mm_Straight (at 8 4.20116) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 17.99998 2.79908) (end -1.99998 2.79908) (layer F.SilkS) (width 0.15))
@@ -57,7 +57,7 @@
   (pad 4 thru_hole oval (at 5.99594 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole oval (at 13.99948 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole oval (at 16.001 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_B09B-PH.wrl
+  (model Connectors_JST.3dshapes/JST_PH_B09B-PH-K-S_09x2.00mm_Straight.wrl
     (at (xyz 0.31496 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

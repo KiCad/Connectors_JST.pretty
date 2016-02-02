@@ -1,9 +1,9 @@
-(module JST_PH_S02B-PH-K_02x2.00mm_Angled (layer F.Cu) (tedit 0)
+(module JST_PH_S02B-PH-K-S_02x2.00mm_Angled (layer F.Cu) (tedit 0)
   (descr "JST PH series connector, JST_S02B-PH")
   (fp_text reference REF** (at 1 -2.79908) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_PH_S02B-PH-K_02x2.00mm_Angled (at 1 7.80034) (layer F.Fab)
+  (fp_text value JST_PH_S02B-PH-K-S_02x2.00mm_Angled (at 1 7.80034) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.30048 4.09956) (end -0.30048 6.2992) (layer F.SilkS) (width 0.15))
@@ -32,7 +32,7 @@
   (fp_line (start -1.99974 -1.39954) (end -1.99974 6.2992) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at -0.00076 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 2.00076 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_S02B-PH.wrl
+  (model Connectors_JST.3dshapes/JST_PH_S02B-PH-K-S_02x2.00mm_Angled.wrl
     (at (xyz 0.03937 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
