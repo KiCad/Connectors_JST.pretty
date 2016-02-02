@@ -28,7 +28,7 @@
     (solder_mask_margin 0.1) )
   (pad "" smd rect (at 1.75006 3.77444) (size 0.70104 1.2) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1) )
-  (model Connectors_JST.3dshapes/JST_BM02B-ACH.wrl
+  (model Connectors_JST.3dshapes/JST_ACH_BM02B-ACHSS_02x1.20mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
