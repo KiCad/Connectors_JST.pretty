@@ -26,7 +26,7 @@
   (fp_line (start -1.7 -2.5) (end -1.4 -2) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -1.25 0) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.25 0) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_B02B-EH.wrl
+  (model Connectors_JST.3dshapes/JST_EH_B02B-EH-A_02x2.50mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
