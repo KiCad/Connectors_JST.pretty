@@ -1,4 +1,4 @@
-(module JST_J2000_B12B-J21DK-GG_2x06x2.50mm_Straight (layer F.Cu) (tedit 56B00A7C)
+(module JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight (layer F.Cu) (tedit 56B00A7C)
   (descr http://www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf)
   (tags "JST JFA J2000 connector center locking dual double row top entry vertical straight")
   (fp_text reference REF** (at -6.25 -11) (layer F.SilkS)
@@ -77,7 +77,7 @@
   (pad 10 thru_hole circle (at -10 -4) (size 1.5 1.5) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at -12.5 0) (size 1.5 1.5) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at -12.5 -4) (size 1.5 1.5) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_J2000_B12B-J21DK-GG.wrl
+  (model Connectors_JST.3dshapes/JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
