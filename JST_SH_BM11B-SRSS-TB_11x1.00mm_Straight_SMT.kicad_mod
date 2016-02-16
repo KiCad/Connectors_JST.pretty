@@ -1,4 +1,4 @@
-(module JST_SH_BM11B-SRSS-TB_11x1.00mm_Straight_SMT_SMT (layer F.Cu) (tedit 56C310D9)
+(module JST_SH_BM11B-SRSS-TB_11x1.00mm_Straight_SMT (layer F.Cu) (tedit 56C310D9)
   (descr "JST SH Series Connector, Top Entry Type")
   (attr smd)
   (fp_text reference REF** (at 0 3) (layer F.SilkS)
