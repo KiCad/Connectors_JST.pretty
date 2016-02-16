@@ -1,11 +1,11 @@
-(module JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled (layer F.Cu) (tedit 559373DA)
+(module JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled_SMT (layer F.Cu) (tedit 559373DA)
   (descr "JST SUR series connector, IDC, 0.80mm pitch")
   (tags "JST SUR connector IDC SMD")
   (fp_text reference REF** (at -6.6 4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (attr smd)
-(fp_text value JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled (at 0 -4.1) (layer F.Fab)
+(fp_text value JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled_SMT (at 0 -4.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.8 -0.4) (end -2 -0.4) (layer F.SilkS) (width 0.15))
@@ -35,7 +35,7 @@
   (pad 1 smd rect (at -2 0) (size 0.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.2 0) (size 0.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2 0) (size 0.5 1) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_JST.3dshapes/JST_SM06B-SUR.wrl
+  (model Connectors_JST.3dshapes/JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled_SMT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
