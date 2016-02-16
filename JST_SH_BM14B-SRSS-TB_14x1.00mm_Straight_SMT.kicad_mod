@@ -1,6 +1,6 @@
 (module JST_SH_BM14B-SRSS-TB_14x1.00mm_Straight (layer  F.Cu)
 (descr "JST SH Series Connector, Top Entry Type")
-(fp_text reference REF** (at 0 5) (layer F.SilkS)
+(fp_text reference REF** (at 0 3) (layer F.SilkS)
 	(effects (font (size 1 1) (thickness 0.15)))
 )
 (attr smd)
