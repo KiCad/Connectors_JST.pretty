@@ -1,6 +1,6 @@
 (module JST_PUD_S14B-PUDSS_2x07x2.00mm_Angled_PTH (layer F.Cu) (tedit 56C31CA8)
   (descr http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf)
-  (tags "JST PUD series dual double row top vertical entry straight through thru hole connector")
+  (tags "JST PUD series dual double row side horizontal entry angled through thru hole connector")
   (fp_text reference REF** (at -6 2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
