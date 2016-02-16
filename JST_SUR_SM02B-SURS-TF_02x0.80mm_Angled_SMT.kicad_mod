@@ -2,7 +2,7 @@
   (descr "JST SUR series connector, IDC, 0.80mm pitch")
   (tags "JST SUR connector IDC SMD")
   (attr smd)
-  (fp_text reference REF** (at -6.6 4.5) (layer F.SilkS)
+  (fp_text reference REF** (at 0 4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value JST_SUR_SM02B-SURS-TF_02x0.80mm_Angled_SMT (at 0 -4.1) (layer F.Fab)
