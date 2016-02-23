@@ -1,10 +1,10 @@
-(module JST_EH_B2B-EH-A_02x2.50mm_Straight_PTH (layer F.Cu) (tedit 56CAF1D8)
-  (descr "JST EH series connector, B2B-EH-A, 2.50mm pitch, top entry")
+(module JST_EH_B02B-EH-A_02x2.50mm_Straight_PTH (layer F.Cu) (tedit 56CCC583)
+  (descr "JST EH series connector, B02B-EH-A, 2.50mm pitch, top entry")
   (tags "connector jst eh top vertical straight")
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_EH_B2B-EH-A_02x2.50mm_Straight_PTH (at 0 5) (layer F.Fab)
+  (fp_text value JST_EH_B02B-EH-A_02x2.50mm_Straight_PTH (at 0 5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.7 -1.8) (end -2.7 2.4) (layer F.SilkS) (width 0.15))
@@ -29,7 +29,7 @@
   (fp_line (start 5.7 -2.3) (end -3.2 -2.3) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole rect (at 0 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
-(model Connectors_JST.3dshapes/JST_EH_B2B-EH-A_02x2.50mm_Straight_PTH.wrl
+(model Connectors_JST.3dshapes/JST_EH_B02B-EH-A_02x2.50mm_Straight_PTH.wrl
 	(at (xyz 0.0492125984252 0 0))
 	(scale (xyz 1 1 1))
 	(rotate (xyz 0 0 0)))

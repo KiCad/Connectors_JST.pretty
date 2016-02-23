@@ -1,4 +1,4 @@
-(module JST_EH_S10B-EH_10x2.50mm_Angled_PTH (layer F.Cu) (tedit 56CAF84E)
+(module JST_EH_S10B-EH_10x2.50mm_Angled_PTH (layer F.Cu) (tedit 56CCC580)
   (descr "JST EH series connector, S10B-EH, 2.50mm pitch, side entry")
   (tags "connector jst eh side horizontal angled")
   (fp_text reference REF** (at 0 4) (layer F.SilkS)
