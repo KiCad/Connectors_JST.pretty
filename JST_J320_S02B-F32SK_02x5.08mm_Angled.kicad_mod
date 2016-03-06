@@ -1,10 +1,10 @@
-(module JST_J320_S02B-F32SK_02x5.08mm_Angled_PTH (layer F.Cu) (tedit 56C40316)
+(module JST_J320_S02B-F32SK_02x5.08mm_Angled (layer F.Cu) (tedit 56C40316)
   (descr http://www.jst-mfg.com/product/pdf/eng/eJFA-J300.pdf)
   (tags "JST J300 J320 series connector through thru hole PTH angled horizontal 5.08mm pitch")
   (fp_text reference REF** (at -2.286 3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_J320_S02B-F32SK_02x5.08mm_Angled_PTH (at -2.54 -22.86) (layer F.Fab)
+  (fp_text value JST_J320_S02B-F32SK_02x5.08mm_Angled (at -2.54 -22.86) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.08 -13.97) (end -5.715 -13.335) (layer F.SilkS) (width 0.15))
@@ -43,7 +43,7 @@
   (pad 2 thru_hole circle (at -5.08 0) (size 2.5 2.5) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 3.81 -7.62) (size 4 4) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -8.9 -7.62) (size 4 4) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_J320_S02B-F32SK_02x5.08mm_Angled_PTH.wrl
+  (model Connectors_JST.3dshapes/JST_J320_S02B-F32SK_02x5.08mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
