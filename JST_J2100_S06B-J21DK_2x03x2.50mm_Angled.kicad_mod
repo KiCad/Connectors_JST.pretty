@@ -1,10 +1,10 @@
-(module JST_J2100_S06B-J21DK_2x03x2.50mm_Angled_PTH (layer F.Cu) (tedit 56C3BD2E)
+(module JST_J2100_S06B-J21DK_2x03x2.50mm_Angled (layer F.Cu) (tedit 56C3BD2E)
   (descr http://www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf)
   (tags "JST J2100 dual two row 2.50mm pitch connector angled through thru hole PTH")
   (fp_text reference REF** (at -2.5 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_J2100_S06B-J21DK_2x03x2.50mm_Angled_PTH (at -2.5 16) (layer F.Fab)
+  (fp_text value JST_J2100_S06B-J21DK_2x03x2.50mm_Angled (at -2.5 16) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.5 0.25) (end 3.5 -0.25) (layer F.SilkS) (width 0.15))
@@ -25,7 +25,7 @@
   (pad 5 thru_hole circle (at -5 0) (size 1.524 1.524) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at -5 -2.5) (size 1.524 1.524) (drill 0.85) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -2.5 7) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask F.SilkS))
-  (model Connectors_JST.3dshapes/JST_J2100_S06B-J21DK_2x03x2.50mm_Angled_PTH.wrl
+  (model Connectors_JST.3dshapes/JST_J2100_S06B-J21DK_2x03x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
