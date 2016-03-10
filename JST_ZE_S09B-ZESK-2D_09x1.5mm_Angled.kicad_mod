@@ -1,4 +1,4 @@
-(module JST_ZE_S09B-ZESK-2D_09x1.5mm_Angled (layer F.Cu) (tedit 56E131D9)
+(module JST_ZE_S09B-ZESK-2D_09x1.5mm_Angled (layer F.Cu) (tedit 56E1344B)
   (descr "JST ZE series connector, S09B-ZESK-2D, 1.50mm pitch, side entry through hole")
   (tags "connector jst ze side horizontal angled tht through thru hole")
   (fp_text reference REF** (at 6 -3) (layer F.SilkS)
@@ -30,4 +30,6 @@
   (pad 4 thru_hole circle (at 4.5 3.7) (size 1.25 1.25) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 7.5 3.7) (size 1.25 1.25) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 10.5 3.7) (size 1.25 1.25) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at -1.55 1.85) (size 1.1 1.1) (drill 1.1) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 13.55 1.85) (size 1.1 1.1) (drill 1.1) (layers *.Cu))
 )
