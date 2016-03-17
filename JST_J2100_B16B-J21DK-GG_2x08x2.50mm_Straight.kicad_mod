@@ -1,4 +1,4 @@
-(module JST_J2100_B16B-J21DK-GG_2x08x2.50mm_Straight (layer F.Cu) (tedit 56EB3BF3)
+(module JST_J2100_B16B-J21DK-GG_2x08x2.50mm_Straight (layer F.Cu) (tedit 56EB4001)
   (descr "JST J2100 series connector, dual row, center locking, B16B-J21DK-GG, top entry type, through hole")
   (tags "connector jst j2100 tht top vertical 2.50mm")
   (fp_text reference REF** (at 8.75 -9.5) (layer F.SilkS)
@@ -53,8 +53,8 @@
   (pad 12 thru_hole circle (at 12.5 -4) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 15 -4) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 17.5 -4) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 0 3.3) (size 3 3) (drill 2) (layers *.Cu))
-  (pad "" thru_hole circle (at 17.5 3.3) (size 3 3) (drill 2) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 0 3.3) (size 3 3) (drill 2) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 17.5 3.3) (size 3 3) (drill 2) (layers *.Cu))
   (model Connectors_JST.3dshapes/JST_J2100_B16B-J21DK-GG_2x08x2.50mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
