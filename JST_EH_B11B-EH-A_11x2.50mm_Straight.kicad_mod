@@ -1,4 +1,4 @@
-(module JST_EH_B11B-EH-A_11x2.50mm_Straight (layer F.Cu) (tedit 56EB2CF7)
+(module JST_EH_B11B-EH-A_11x2.50mm_Straight (layer F.Cu) (tedit 56EE9564)
   (descr "JST EH series connector, B11B-EH-A, 2.50mm pitch, top entry")
   (tags "connector jst eh top vertical straight")
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
@@ -38,9 +38,9 @@
   (pad 9 thru_hole circle (at 20 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 22.5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at 25 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
-(model Connectors_JST.3dshapes/JST_EH_B11B-EH-A_11x2.50mm_Straight.wrl
-  (at (xyz 0.5413385826771654 0 0))
-  (scale (xyz 1 1 1))
-  (rotate (xyz 0 0 0)))
-
+  (model Connectors_JST.3dshapes/JST_EH_B11B-EH-A_11x2.50mm_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
