@@ -1,4 +1,4 @@
-(module JST_GH_SM10B-GHS-TB_10x1.25mm_Angled (layer F.Cu) (tedit 56EB2C87)
+(module JST_GH_SM10B-GHS-TB_10x1.25mm_Angled (layer F.Cu) (tedit 56EE9602)
   (descr "JST GH series connector, SM10B-GHS-TB, side entry type")
   (tags "connector jst GH SMT side horizontal entry 1.25mm pitch")
   (attr smd)
@@ -70,5 +70,9 @@
   (pad 10 smd rect (at 5.625 -1.6) (size 0.6 1.8) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 7.35 1.6) (size 1 2.8) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -7.35 1.6) (size 1 2.8) (drill 0) (layers F.Cu F.Paste F.Mask))
-
+  (model Connectors_JST.3dshapes/JST_GH_SM10B-GHS-TB_10x1.25mm_Angled.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
