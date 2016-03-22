@@ -1,6 +1,6 @@
-(module JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight (layer F.Cu) (tedit 56F10FCC)
+(module JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight (layer F.Cu) (tedit 56F1109B)
   (descr "JST J2100 series connector, dual row, center locking, B12B-J21DK-GG, top entry type, through hole")
-  (tags "connector jst j2100 tht top vertical 2.50mm")
+  (tags "connector jst j2100 vertical")
   (fp_text reference REF** (at 6.25 -9.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
