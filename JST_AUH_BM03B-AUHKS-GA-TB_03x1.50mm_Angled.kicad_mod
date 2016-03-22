@@ -1,11 +1,11 @@
-(module JST_AUH_BM03B-AUHKS-GA-TB (layer F.Cu) (tedit 56ECCEDC)
+(module JST_AUH_BM03B-AUHKS-GA-TB_03x1.50mm_Angled (layer F.Cu) (tedit 56ECCEDC)
   (descr "JST AUH series connector, 1.5mm pitch SMD side entry")
   (tags "jst auh connector ")
   (attr smd)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_AUH_BM03B-AUHKS-GA-TB (at 0 -4) (layer F.Fab)
+  (fp_text value JST_AUH_BM03B-AUHKS-GA-TB_03x1.50mm_Angled (at 0 -4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4 3) (end 4 -3.2) (layer F.CrtYd) (width 0.05))
@@ -40,7 +40,7 @@
   (pad 3 smd rect (at -1.5 1.9) (size 0.65 1.1) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 2.95 -1.9) (size 1 1.45) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -2.95 -1.9) (size 1 1.45) (layers F.Cu F.Paste F.Mask))
-  (model Connectors_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB.wrl
+  (model Connectors_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB_03x1.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
