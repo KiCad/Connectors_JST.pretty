@@ -1,4 +1,4 @@
-(module JST_J2100_S08B-J21DK-GG_2x04x2.50mm_Angled (layer F.Cu) (tedit 56F11238)
+(module JST_J2100_S08B-J21DK-GG_2x04x2.50mm_Angled (layer F.Cu) (tedit 56F13BB0)
   (descr "JST J2100 series connector, dual row, center locking, S08B-J21DK-GG, side entry type, through hole")
   (tags "connector jst j2100 horizontal")
   (fp_text reference REF** (at 3.75 -4.3) (layer F.SilkS)
@@ -28,8 +28,8 @@
   (pad 4 thru_hole circle (at 2.5 -2.5) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 5 -2.5) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 7.5 -2.5) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 0 7) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 7.5 7) (size 3 3) (drill 2) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 0 7) (size 3.4 3.4) (drill 2) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 7.5 7) (size 3.4 3.4) (drill 2) (layers *.Cu *.Mask))
   (model Connectors_JST.3dshapes/JST_J2100_S08B-J21DK-GG_2x04x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
