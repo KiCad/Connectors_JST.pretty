@@ -1,4 +1,4 @@
-(module JST_ZE_BM10B-ZESS-TBT_10x1.5mm_Straight (layer F.Cu) (tedit 56E1511A)
+(module JST_ZE_BM10B-ZESS-TBT_10x1.5mm_Straight (layer F.Cu) (tedit 57AF1CCE)
   (descr "JST ZE series connector, BM10B-ZESS-TBT, 1.50mm pitch, top entry surface mount")
   (tags "connector jst ze top vertical straight smt surface mount")
   (attr smd)
@@ -8,6 +8,10 @@
   (fp_text value JST_ZE_BM10B-ZESS-TBT_10x1.5mm_Straight (at 0 6.175) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start -9.75 -2.025) (end -9.75 3.775) (layer F.Fab) (width 0.15))
+  (fp_line (start -9.75 3.775) (end 9.75 3.775) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.75 3.775) (end 9.75 -2.025) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.75 -2.025) (end -9.75 -2.025) (layer F.Fab) (width 0.15))
   (fp_line (start 6.75 -4.275) (end 7.05 -4.875) (layer F.SilkS) (width 0.15))
   (fp_line (start 7.05 -4.875) (end 6.45 -4.875) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.45 -4.875) (end 6.75 -4.275) (layer F.SilkS) (width 0.15))
@@ -89,4 +93,5 @@
   (pad 10 smd rect (at -6.75 -2.525) (size 0.9 2.5) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 9.35 2.525) (size 2 3.3) (drill 0) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -9.35 2.525) (size 2 3.3) (drill 0) (layers F.Cu F.Paste F.Mask))
+
 )
