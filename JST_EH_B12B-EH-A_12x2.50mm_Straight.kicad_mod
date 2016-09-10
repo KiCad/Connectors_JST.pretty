@@ -1,4 +1,4 @@
-(module JST_EH_B12B-EH-A_12x2.50mm_Straight (layer F.Cu) (tedit 57D366A2)
+(module JST_EH_B12B-EH-A_12x2.50mm_Straight (layer F.Cu) (tedit 57D36715)
   (descr "JST EH series connector, B12B-EH-A, 2.50mm pitch, top entry")
   (tags "connector jst eh top vertical straight")
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
