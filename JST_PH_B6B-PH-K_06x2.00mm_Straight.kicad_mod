@@ -1,4 +1,4 @@
-(module JST_PH_B6B-PH-K_06x2.00mm_Straight (layer F.Cu) (tedit 58A1C196)
+(module JST_PH_B6B-PH-K_06x2.00mm_Straight (layer F.Cu) (tedit 58A2F0E8)
   (descr "JST PH series connector, B6B-PH-K, top entry type, through hole, Datasheet: http://www.jst-mfg.com/product/pdf/eng/ePH.pdf")
   (tags "connector jst ph")
   (fp_text reference REF** (at 1.5 -2.8) (layer F.SilkS)
