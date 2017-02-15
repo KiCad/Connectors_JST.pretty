@@ -1,4 +1,4 @@
-(module JST_ZE_B14B-ZESK-1D_14x1.5mm_Straight (layer F.Cu) (tedit 56E143A3)
+(module JST_ZE_B14B-ZESK-1D_14x1.5mm_Straight (layer F.Cu) (tedit 57AF1CB0)
   (descr "JST ZE series connector, B14B-ZESK-1D, 1.50mm pitch, top entry through hole with boss")
   (tags "connector jst ze top vertical straight tht through thru hole")
   (fp_text reference REF** (at 9.75 3) (layer F.SilkS)
@@ -7,6 +7,10 @@
   (fp_text value JST_ZE_B14B-ZESK-1D_14x1.5mm_Straight (at 9.75 -6.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start -2.25 -5.1) (end -2.25 0.65) (layer F.Fab) (width 0.15))
+  (fp_line (start -2.25 0.65) (end 21.75 0.65) (layer F.Fab) (width 0.15))
+  (fp_line (start 21.75 0.65) (end 21.75 -5.1) (layer F.Fab) (width 0.15))
+  (fp_line (start 21.75 -5.1) (end -2.25 -5.1) (layer F.Fab) (width 0.15))
   (fp_line (start -2.95 -5.8) (end -2.95 1.35) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.95 1.35) (end 22.45 1.35) (layer F.CrtYd) (width 0.05))
   (fp_line (start 22.45 1.35) (end 22.45 -5.8) (layer F.CrtYd) (width 0.05))
@@ -116,4 +120,5 @@
   (pad 12 thru_hole circle (at 16.5 -2) (size 1.25 1.25) (drill 0.7) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 19.5 -2) (size 1.25 1.25) (drill 0.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -1.65 -3.8) (size 1.1 1.1) (drill 1.1) (layers *.Cu))
+
 )
