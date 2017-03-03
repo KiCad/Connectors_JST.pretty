@@ -4,7 +4,7 @@ error=0
 
 for change in $(git diff --name-only --diff-filter=AM $TRAVIS_COMMIT_RANGE); do
     echo $change
-    python3 $SCRIPT $change -vv
+    python3 "$SCRIPT" "$change" -vv
     error="$(($error+$?))"
 done
 
