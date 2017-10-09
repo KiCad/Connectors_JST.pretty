@@ -1,10 +1,10 @@
-(module JST_NV_B02P-NV_2x5.00mm_Straight (layer F.Cu) (tedit 59D27D03)
+(module JST_NV_B02P-NV_2x5.00mm_Vertical (layer F.Cu) (tedit 59DBB535)
   (descr "JST NV series connector, B02P-NV, 5.00mm pitch, top entry type, through hole")
   (tags "connector jst nv vertical")
   (fp_text reference REF** (at 2.5 -4.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value JST_NV_B02P-NV_2x5.00mm_Straight (at 2.5 6) (layer F.Fab)
+  (fp_text value JST_NV_B02P-NV_2x5.00mm_Vertical (at 2.5 6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.5 -3.7) (end -2.5 4.8) (layer F.Fab) (width 0.1))
@@ -30,7 +30,7 @@
   (fp_text user %R (at 2.5 2.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_NV_B02P-NV_2x5.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_NV_B02P-NV_2x5.00mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
